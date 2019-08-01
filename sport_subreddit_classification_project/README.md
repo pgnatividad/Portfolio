@@ -1,4 +1,4 @@
-# Project 3: Web APIs & Classification
+
 
 ## Problem Statement:
 We are to make a binary classifier model out of scrapped Reddit posts to determine which two subreddits(of our choosing) the posts are from. The two subreddit chosen were: r/ChicagoBulls and r/Thunder 
